@@ -22,4 +22,4 @@ DOMAIN-SUFFIX,admobile.top,REJECT-TINYGIF
 ^https?:\/\/.+?\.snssdk\.com\/ad\/ - reject
 
 [MITM]
-hostname = %APPEND% sf?-ttcdn-tos.pstatp.com, www.51devapp.com, *.snssdk.com, www.19831110.com, api-access.pangolin-sdk-toutiao.com, os8.pw, www.umeng.com, www.adview.cn, adview.cn
+hostname = %APPEND% sf?-ttcdn-tos.pstatp.com, www.51devapp.com, www.19831110.com, api-access.pangolin-sdk-toutiao.com, os8.pw, www.umeng.com, www.adview.cn, adview.cn
